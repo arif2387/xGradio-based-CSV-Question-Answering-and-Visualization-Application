@@ -1,0 +1,1001 @@
+ID,City,HouseType,Price,Area,Bedrooms,Bathrooms,YearBuilt
+1,Dallas,Detached,835777,1641,3,3.0,1946
+2,Houston,Semi-detached,309955,2507,4,3.8,1944
+3,Chicago,Detached,348989,1380,1,3.8,1926
+4,Los Angeles,Condo,327264,1177,2,3.3,1932
+5,Phoenix,Townhouse,977633,2043,3,3.8,1978
+6,Chicago,Semi-detached,950673,2115,1,2.8,1920
+7,San Diego,Condo,102520,702,1,3.7,1971
+8,Phoenix,Condo,199126,629,2,3.2,1944
+9,Chicago,Semi-detached,363660,3808,1,1.0,1998
+10,San Diego,Townhouse,326726,3074,2,2.8,1911
+11,San Jose,Condo,313971,3679,1,3.2,1940
+12,Philadelphia,Detached,408432,2168,4,3.6,1998
+13,San Antonio,Semi-detached,946249,1563,5,2.9,1983
+14,San Jose,Condo,996292,3034,2,2.7,1924
+15,Chicago,Townhouse,211654,627,2,2.4,2006
+16,San Jose,Semi-detached,212268,2245,1,2.5,1961
+17,San Diego,Townhouse,108580,1863,5,2.8,1932
+18,Chicago,Detached,970971,2005,3,2.8,2002
+19,San Jose,Detached,377026,963,2,1.2,1925
+20,Phoenix,Semi-detached,847413,3439,3,1.8,1973
+21,Dallas,Condo,166645,2632,4,4.0,1941
+22,San Diego,Townhouse,359914,3364,3,1.7,1956
+23,Phoenix,Condo,261088,3278,2,1.4,1966
+24,San Antonio,Condo,403138,2301,1,2.2,1942
+25,San Diego,Detached,829761,587,5,3.8,1940
+26,San Antonio,Condo,140312,2948,2,2.4,2000
+27,New York,Semi-detached,329941,1664,4,3.4,1983
+28,Los Angeles,Townhouse,626746,2131,5,1.8,1913
+29,San Diego,Townhouse,854331,1076,2,2.9,1948
+30,Chicago,Semi-detached,916307,3341,5,1.2,1922
+31,Philadelphia,Semi-detached,933738,2716,4,2.4,1933
+32,San Antonio,Detached,971548,3035,4,1.5,1918
+33,San Antonio,Condo,787969,2569,2,3.9,1938
+34,Phoenix,Condo,900127,671,1,1.5,1977
+35,San Diego,Detached,375827,1996,5,3.8,1909
+36,Phoenix,Condo,486674,2223,5,2.0,1961
+37,Dallas,Townhouse,146761,1301,2,3.0,1965
+38,Phoenix,Detached,672497,738,4,1.9,2011
+39,San Antonio,Townhouse,314994,3559,5,3.6,1958
+40,Philadelphia,Condo,579069,3638,1,2.6,1953
+41,Dallas,Condo,394196,645,1,1.5,1991
+42,Los Angeles,Condo,224078,1983,2,2.0,1953
+43,Los Angeles,Townhouse,306052,2894,4,1.7,1927
+44,San Jose,Condo,845594,2078,3,1.3,1918
+45,Chicago,Semi-detached,506225,954,5,3.7,2018
+46,San Antonio,Condo,159216,3097,4,2.4,1904
+47,New York,Detached,373202,3983,4,2.7,1936
+48,Philadelphia,Townhouse,203109,2474,2,3.4,2019
+49,Los Angeles,Condo,413775,844,5,1.9,1979
+50,New York,Townhouse,869299,3513,4,3.9,1969
+51,Chicago,Townhouse,405725,578,5,1.1,1927
+52,Phoenix,Townhouse,301530,3918,3,1.8,1977
+53,Chicago,Detached,708204,924,5,1.5,1954
+54,Chicago,Condo,679105,3435,1,1.8,1947
+55,San Jose,Condo,734432,882,5,2.8,1921
+56,Phoenix,Semi-detached,977152,1593,4,1.3,2003
+57,Philadelphia,Semi-detached,395397,2016,3,3.0,1988
+58,San Jose,Detached,124887,1463,4,2.6,2000
+59,Phoenix,Condo,810607,732,2,2.5,1934
+60,Philadelphia,Semi-detached,219535,3426,3,3.4,1908
+61,Chicago,Semi-detached,295508,3427,4,2.7,2017
+62,San Antonio,Semi-detached,405506,1165,5,2.4,1919
+63,New York,Condo,534530,3647,2,3.1,1982
+64,Phoenix,Townhouse,593164,3865,3,3.1,1955
+65,Los Angeles,Townhouse,603657,2545,5,2.9,1973
+66,San Antonio,Townhouse,155159,2786,5,3.5,1994
+67,Phoenix,Condo,911295,2963,3,1.5,1991
+68,San Jose,Detached,357829,1633,3,2.7,2009
+69,San Diego,Detached,768625,3435,5,3.1,1943
+70,Phoenix,Detached,619578,2608,1,2.0,1968
+71,San Jose,Semi-detached,130085,3576,5,2.9,2018
+72,San Antonio,Semi-detached,349865,2897,3,1.7,1980
+73,San Antonio,Condo,112038,885,2,2.5,1972
+74,San Antonio,Condo,804470,2723,4,1.3,1954
+75,Los Angeles,Detached,840323,2774,5,1.9,2020
+76,Houston,Semi-detached,508518,3865,4,2.0,1992
+77,Houston,Semi-detached,365442,1127,5,2.6,2013
+78,Los Angeles,Semi-detached,785212,1394,3,1.8,1961
+79,Philadelphia,Detached,267616,3435,3,3.2,1994
+80,New York,Condo,762265,802,3,4.0,1931
+81,Dallas,Townhouse,668208,3164,3,2.3,2005
+82,Houston,Detached,995911,1085,4,2.7,1900
+83,Chicago,Semi-detached,751250,2970,2,2.5,1987
+84,Houston,Condo,477867,1252,5,2.4,1947
+85,Houston,Condo,336038,1519,5,2.1,1946
+86,San Diego,Detached,163725,1159,1,3.5,1922
+87,Dallas,Townhouse,438239,2462,2,1.8,1945
+88,San Antonio,Detached,437384,1046,5,1.1,1913
+89,San Jose,Detached,577117,2690,3,2.7,1987
+90,Dallas,Detached,330153,3869,4,1.4,1950
+91,Dallas,Semi-detached,470639,3572,2,2.5,1923
+92,New York,Townhouse,568845,1486,4,3.0,2010
+93,New York,Townhouse,792765,3231,4,1.0,1999
+94,Philadelphia,Townhouse,589258,2334,2,2.2,1975
+95,Phoenix,Condo,381675,2550,5,3.1,1958
+96,San Antonio,Detached,801619,732,1,4.0,1959
+97,Philadelphia,Detached,936036,2313,2,1.8,1979
+98,Chicago,Townhouse,629330,1130,4,2.3,2001
+99,Chicago,Semi-detached,293902,3115,2,2.7,2012
+100,San Antonio,Detached,844314,2029,5,3.1,1995
+101,Philadelphia,Condo,692502,2443,5,3.2,2010
+102,San Jose,Condo,280304,602,5,1.4,1949
+103,San Jose,Condo,351611,1210,4,2.0,1946
+104,New York,Detached,616475,725,2,3.2,2008
+105,Los Angeles,Semi-detached,980548,2801,2,1.2,1976
+106,Chicago,Condo,200559,3043,4,1.9,1901
+107,San Antonio,Townhouse,903173,1772,2,2.7,1959
+108,San Antonio,Condo,164742,1981,1,1.3,1922
+109,Phoenix,Townhouse,435917,3051,4,3.8,1984
+110,San Antonio,Condo,359683,3606,2,2.3,1926
+111,San Antonio,Condo,802860,2099,4,2.6,1916
+112,Houston,Townhouse,218833,3644,5,2.1,1929
+113,Phoenix,Condo,192345,559,3,3.2,1906
+114,San Antonio,Semi-detached,306629,2233,4,1.2,1966
+115,San Jose,Townhouse,912729,3942,4,3.5,2019
+116,Chicago,Detached,281817,3089,4,3.0,1931
+117,San Diego,Condo,677896,1214,4,3.8,2012
+118,Dallas,Detached,543333,2164,2,1.6,1974
+119,San Diego,Semi-detached,875495,2782,5,2.2,2011
+120,Los Angeles,Condo,205839,1928,5,1.0,1979
+121,San Diego,Detached,232996,995,4,1.2,1967
+122,San Jose,Semi-detached,903702,1954,3,3.9,1998
+123,San Jose,Condo,154772,1039,3,1.8,1965
+124,Houston,Townhouse,769754,1160,5,3.6,1978
+125,San Diego,Semi-detached,813370,2855,3,1.5,1980
+126,San Diego,Detached,419588,3107,5,2.5,1948
+127,San Jose,Semi-detached,382932,1928,1,1.2,1925
+128,Dallas,Townhouse,959947,2499,3,2.9,1983
+129,New York,Semi-detached,571065,2521,3,1.1,2015
+130,San Antonio,Townhouse,769757,1742,2,2.1,1911
+131,Dallas,Townhouse,554094,1015,1,1.1,1949
+132,Chicago,Semi-detached,397296,1076,5,3.1,1930
+133,Chicago,Semi-detached,470810,3871,2,2.7,2022
+134,Los Angeles,Townhouse,814082,3695,2,1.5,1973
+135,San Diego,Detached,798066,2583,2,1.9,1951
+136,New York,Semi-detached,353845,1177,4,1.0,1939
+137,Phoenix,Townhouse,583270,1444,4,2.8,1981
+138,San Jose,Semi-detached,319434,2009,2,3.8,1916
+139,Dallas,Condo,273513,649,3,3.7,1919
+140,Los Angeles,Townhouse,309926,3282,1,3.3,1923
+141,Dallas,Detached,260004,3837,1,1.7,1917
+142,Philadelphia,Detached,988787,872,3,1.6,1997
+143,Chicago,Townhouse,735409,1356,1,3.8,1934
+144,Philadelphia,Townhouse,768413,2874,1,2.7,1900
+145,San Jose,Townhouse,439158,3867,5,2.5,1911
+146,Los Angeles,Townhouse,728166,3153,2,1.3,1973
+147,Chicago,Townhouse,101644,2094,4,1.9,1911
+148,Phoenix,Detached,507315,1251,1,3.8,2013
+149,San Diego,Detached,763768,3222,2,3.6,1916
+150,Los Angeles,Townhouse,975429,1461,4,1.8,1975
+151,San Jose,Detached,211498,3691,3,1.2,1914
+152,Philadelphia,Semi-detached,534558,3190,4,1.6,1925
+153,San Antonio,Condo,992691,2045,4,1.5,1962
+154,Los Angeles,Condo,277236,2256,5,3.2,1922
+155,San Diego,Detached,839043,1917,5,3.1,1906
+156,Houston,Townhouse,525330,3266,3,2.2,2014
+157,Chicago,Semi-detached,823523,636,5,1.6,1971
+158,Los Angeles,Townhouse,945877,2916,3,1.1,1994
+159,San Antonio,Condo,340249,880,3,3.5,1982
+160,Dallas,Condo,218865,1325,3,2.2,1944
+161,Dallas,Townhouse,830489,3734,3,3.1,1930
+162,New York,Semi-detached,599733,984,3,1.6,2013
+163,Phoenix,Condo,380083,1684,1,3.8,1993
+164,Chicago,Townhouse,209824,3841,2,1.1,2001
+165,San Antonio,Townhouse,472305,2611,5,3.3,1999
+166,San Diego,Condo,100803,778,5,3.0,1961
+167,Chicago,Condo,229087,3769,1,1.0,1927
+168,Philadelphia,Semi-detached,672595,3035,2,2.7,1940
+169,Phoenix,Condo,588652,894,4,2.0,2021
+170,Chicago,Townhouse,806269,582,3,3.2,1954
+171,Philadelphia,Townhouse,410340,643,4,3.5,1900
+172,Chicago,Semi-detached,446864,897,3,3.6,1954
+173,Dallas,Detached,475633,2478,1,2.3,1941
+174,San Jose,Detached,373616,1276,2,3.8,1936
+175,Philadelphia,Detached,890034,2826,1,3.9,2001
+176,Dallas,Detached,155648,3560,5,1.1,1973
+177,San Jose,Detached,784467,1766,3,3.1,1944
+178,Los Angeles,Condo,210712,2342,4,3.1,2021
+179,New York,Condo,314453,3539,5,2.4,1992
+180,San Jose,Townhouse,923876,3771,3,3.4,1955
+181,Los Angeles,Townhouse,658467,535,5,2.6,1947
+182,Los Angeles,Semi-detached,883278,2471,1,4.0,2000
+183,Dallas,Detached,317585,1036,5,2.8,1952
+184,Los Angeles,Semi-detached,949735,2690,2,2.8,1999
+185,San Diego,Detached,857809,3382,1,2.8,2016
+186,Philadelphia,Semi-detached,802935,2011,4,2.2,1950
+187,San Diego,Detached,377845,1144,3,1.6,2005
+188,San Diego,Townhouse,108953,2429,5,2.1,2000
+189,Houston,Detached,400557,3296,2,3.5,1974
+190,Phoenix,Townhouse,461308,1645,5,3.5,1949
+191,New York,Townhouse,610401,2703,1,1.2,1903
+192,New York,Townhouse,261469,1455,5,1.9,1906
+193,San Diego,Condo,640807,2184,3,2.8,1953
+194,San Jose,Detached,888718,2992,1,3.5,1903
+195,San Jose,Townhouse,688038,3221,3,2.4,1921
+196,Los Angeles,Semi-detached,535264,3232,5,1.9,1945
+197,Los Angeles,Detached,159002,3154,4,2.0,1983
+198,Chicago,Semi-detached,493282,730,5,2.1,1961
+199,Philadelphia,Townhouse,709955,991,3,2.2,1972
+200,New York,Townhouse,307413,3658,2,1.1,1900
+201,Philadelphia,Semi-detached,219494,2262,4,1.6,1922
+202,New York,Semi-detached,901353,2453,3,1.7,1941
+203,Los Angeles,Townhouse,687148,3606,1,3.0,1982
+204,Houston,Townhouse,644253,2329,4,2.9,1917
+205,Dallas,Detached,598506,2726,2,2.5,1958
+206,New York,Semi-detached,499671,3771,3,1.3,2005
+207,San Jose,Detached,492715,3195,4,1.1,1932
+208,Chicago,Semi-detached,405073,812,2,3.4,2019
+209,Dallas,Detached,460858,992,2,1.2,1950
+210,San Antonio,Townhouse,895147,1574,5,3.4,1972
+211,Dallas,Townhouse,652218,3002,2,1.5,1968
+212,Los Angeles,Detached,597219,1613,4,3.4,2005
+213,Dallas,Semi-detached,526106,3939,5,2.8,1913
+214,Los Angeles,Semi-detached,886210,924,4,3.3,1917
+215,Los Angeles,Condo,113314,3636,1,1.3,1964
+216,San Antonio,Condo,564134,3774,3,2.1,1953
+217,Phoenix,Townhouse,789893,2433,2,3.3,1979
+218,Chicago,Detached,101700,1740,3,2.6,1963
+219,Phoenix,Condo,506806,2303,4,3.1,1925
+220,Houston,Semi-detached,311273,1043,3,3.6,1953
+221,Philadelphia,Townhouse,338766,2305,3,1.3,2000
+222,San Diego,Townhouse,118903,809,5,2.1,1913
+223,Phoenix,Townhouse,983354,3590,3,3.8,1922
+224,New York,Townhouse,815121,2355,1,3.5,1998
+225,Los Angeles,Semi-detached,126836,3040,2,3.8,1959
+226,Philadelphia,Townhouse,858099,756,2,3.9,1949
+227,San Antonio,Townhouse,981556,2686,4,1.4,2012
+228,Houston,Detached,952243,3324,2,2.0,2022
+229,New York,Townhouse,731698,1891,5,1.6,1920
+230,San Jose,Detached,907596,2423,2,2.7,1982
+231,Chicago,Semi-detached,797788,3440,5,3.1,1926
+232,Philadelphia,Semi-detached,231304,2123,4,3.0,1993
+233,San Diego,Detached,633468,1429,5,2.4,1911
+234,San Diego,Detached,317020,3023,3,2.0,1952
+235,Philadelphia,Semi-detached,939208,502,3,1.5,2000
+236,Chicago,Condo,800903,3550,3,3.0,1966
+237,Houston,Condo,613766,1771,3,2.8,1988
+238,Chicago,Condo,641486,2392,2,3.1,1950
+239,Dallas,Townhouse,352448,919,5,1.3,1958
+240,New York,Detached,388314,2869,3,2.0,1971
+241,Houston,Condo,225028,897,5,1.6,1939
+242,Chicago,Detached,996631,3765,3,3.5,1904
+243,Phoenix,Detached,852866,3442,3,1.3,1971
+244,San Jose,Townhouse,932122,3739,3,2.3,1947
+245,Philadelphia,Condo,400900,1362,3,1.6,2022
+246,Chicago,Townhouse,934591,2626,3,2.9,1938
+247,Los Angeles,Semi-detached,418841,748,3,3.2,1928
+248,Phoenix,Semi-detached,734260,738,4,1.7,1956
+249,San Diego,Townhouse,384765,1153,2,1.0,1925
+250,San Jose,Semi-detached,852340,593,1,2.4,1943
+251,San Jose,Semi-detached,287903,3989,5,1.6,1924
+252,San Antonio,Detached,322930,1198,4,1.4,1908
+253,New York,Condo,715668,1234,5,1.3,1966
+254,Philadelphia,Townhouse,798152,2112,3,2.8,2002
+255,Chicago,Detached,271290,3989,4,3.0,1902
+256,New York,Townhouse,229308,1261,5,3.1,1959
+257,San Antonio,Semi-detached,876720,1277,5,3.1,1969
+258,Philadelphia,Detached,647430,3270,5,2.0,1939
+259,San Antonio,Semi-detached,149452,2354,5,4.0,1984
+260,New York,Semi-detached,853117,706,3,2.3,1959
+261,Los Angeles,Townhouse,493891,846,5,3.8,1984
+262,New York,Townhouse,454010,2821,3,1.1,2006
+263,San Diego,Detached,367084,3260,1,2.8,2018
+264,Phoenix,Detached,326796,2014,5,3.3,2000
+265,San Jose,Townhouse,327532,3539,3,2.9,1935
+266,San Diego,Semi-detached,725171,2946,1,2.8,1977
+267,Los Angeles,Detached,395533,2184,2,2.6,1966
+268,Dallas,Semi-detached,351942,2439,5,1.6,1990
+269,San Diego,Detached,580792,3844,3,1.7,1914
+270,San Jose,Townhouse,865864,2060,4,2.2,1937
+271,Houston,Semi-detached,613649,2378,1,2.9,1956
+272,Chicago,Semi-detached,349967,1348,1,2.1,2001
+273,San Diego,Detached,352618,1840,1,3.1,1991
+274,San Diego,Semi-detached,388282,2919,4,1.8,1940
+275,Chicago,Condo,738914,1629,4,1.5,1907
+276,New York,Semi-detached,120429,3236,5,3.1,2000
+277,Houston,Semi-detached,601048,2992,1,2.0,1962
+278,Phoenix,Condo,818720,1836,1,3.7,1947
+279,Philadelphia,Semi-detached,710955,1657,1,1.8,1981
+280,San Jose,Semi-detached,760258,2148,1,1.3,1927
+281,San Jose,Condo,967358,3994,1,3.7,1931
+282,Los Angeles,Townhouse,144220,2965,5,3.8,2017
+283,San Diego,Detached,992535,2670,1,1.1,1983
+284,San Jose,Condo,403745,2662,3,3.9,2001
+285,Dallas,Detached,769927,557,4,1.5,1991
+286,New York,Detached,422599,2868,3,2.4,1902
+287,New York,Semi-detached,992494,1424,2,2.7,1906
+288,Philadelphia,Townhouse,649902,569,4,3.0,1909
+289,Chicago,Condo,791900,3846,4,1.1,1983
+290,Philadelphia,Townhouse,581394,3867,4,2.7,1919
+291,Los Angeles,Detached,220647,3018,1,1.2,1993
+292,Houston,Townhouse,465832,3564,5,2.5,1947
+293,San Antonio,Townhouse,745873,3606,2,1.4,1990
+294,Houston,Condo,627038,1382,2,2.6,2005
+295,Phoenix,Semi-detached,161382,3987,5,3.0,1986
+296,San Antonio,Semi-detached,470445,3026,2,2.6,2009
+297,San Diego,Detached,347425,3303,5,2.6,1908
+298,San Antonio,Townhouse,461888,1900,5,2.0,1931
+299,Los Angeles,Townhouse,608572,2809,5,3.3,1928
+300,Phoenix,Condo,950280,637,3,3.1,1900
+301,San Antonio,Townhouse,357230,845,2,3.3,1980
+302,San Diego,Townhouse,187451,1540,2,3.3,1900
+303,Phoenix,Townhouse,644742,3015,5,2.5,1915
+304,Phoenix,Townhouse,440099,1082,3,2.8,1951
+305,San Diego,Semi-detached,309613,2398,3,1.9,2005
+306,Phoenix,Condo,588793,2608,4,2.8,1986
+307,Dallas,Townhouse,258050,3366,5,2.6,2012
+308,Chicago,Detached,713802,1207,5,1.2,1947
+309,Chicago,Detached,448805,2748,5,1.3,2009
+310,San Diego,Detached,445096,908,4,2.2,1907
+311,San Jose,Townhouse,571867,3978,3,3.8,1994
+312,New York,Condo,777037,3287,1,2.4,1901
+313,Los Angeles,Detached,236299,2652,5,2.9,1909
+314,San Antonio,Condo,200809,3221,4,2.6,1984
+315,Dallas,Condo,607213,704,5,2.2,1901
+316,Phoenix,Condo,830159,3523,1,1.6,2008
+317,Los Angeles,Detached,321822,707,4,3.5,1950
+318,Chicago,Condo,487859,923,3,3.5,1940
+319,Chicago,Townhouse,861315,2143,5,2.3,1980
+320,San Diego,Condo,187400,1823,3,3.2,1980
+321,Dallas,Townhouse,815308,2941,5,1.2,1917
+322,Houston,Condo,314607,3793,1,1.5,1970
+323,Houston,Condo,321872,2279,4,3.3,1922
+324,Dallas,Townhouse,673141,2965,3,1.5,1988
+325,Los Angeles,Semi-detached,128148,3451,3,2.8,1927
+326,Philadelphia,Semi-detached,223278,3922,2,1.7,1972
+327,San Jose,Townhouse,741479,3189,3,3.3,1973
+328,Los Angeles,Detached,262895,2871,5,2.5,1924
+329,San Antonio,Semi-detached,937069,1671,1,2.5,1942
+330,Los Angeles,Detached,236225,882,5,1.7,2007
+331,Chicago,Condo,445887,3102,2,2.3,1919
+332,New York,Semi-detached,143209,1271,5,2.8,1911
+333,San Antonio,Condo,230661,2618,1,3.8,1963
+334,San Diego,Townhouse,449882,1034,2,2.2,1903
+335,San Antonio,Detached,904297,3684,2,2.9,1906
+336,Dallas,Semi-detached,183535,897,2,1.3,1991
+337,Philadelphia,Detached,557843,1451,4,1.8,1922
+338,San Diego,Detached,704280,3222,2,3.1,1970
+339,Chicago,Semi-detached,110611,1044,5,2.7,2005
+340,San Diego,Condo,419366,908,3,3.2,2010
+341,Dallas,Townhouse,222674,1157,3,1.7,1976
+342,Los Angeles,Condo,253554,640,3,2.3,2002
+343,New York,Condo,674180,1910,1,2.9,1968
+344,Los Angeles,Semi-detached,156928,1248,4,2.7,1951
+345,Phoenix,Condo,861750,3638,2,2.0,1904
+346,Philadelphia,Condo,117863,3224,1,2.3,1960
+347,Houston,Detached,640779,3319,4,3.5,1966
+348,Chicago,Condo,846726,3095,2,1.5,1978
+349,Dallas,Detached,900641,2332,4,2.9,1901
+350,San Diego,Townhouse,101976,1854,4,2.6,1989
+351,San Antonio,Condo,285304,1067,4,2.0,1915
+352,Los Angeles,Semi-detached,563318,1202,5,1.0,2006
+353,San Jose,Townhouse,387911,2444,1,2.3,2002
+354,Philadelphia,Semi-detached,439441,2599,2,1.1,1937
+355,San Antonio,Semi-detached,635352,1777,1,3.5,1925
+356,Phoenix,Detached,455914,2756,5,2.8,1907
+357,New York,Detached,432290,1967,4,3.7,1984
+358,San Diego,Condo,605252,2453,3,3.3,1924
+359,San Antonio,Townhouse,587617,1183,4,2.2,2008
+360,Chicago,Townhouse,299157,3361,3,3.9,1954
+361,San Diego,Semi-detached,314867,3532,1,2.8,1984
+362,San Diego,Condo,564152,2466,1,1.1,1920
+363,Los Angeles,Townhouse,239893,1746,5,2.4,2006
+364,San Jose,Townhouse,261973,603,4,2.0,2001
+365,Philadelphia,Detached,596583,2547,4,1.9,2021
+366,Chicago,Detached,959097,1672,1,3.7,1923
+367,Houston,Condo,555913,3501,2,2.0,1906
+368,Houston,Semi-detached,224209,2534,4,1.4,1972
+369,Chicago,Townhouse,640578,3930,5,3.1,2010
+370,Los Angeles,Townhouse,706289,782,3,2.6,2005
+371,Chicago,Semi-detached,412087,3435,1,1.9,1947
+372,San Diego,Townhouse,791608,2592,5,2.8,2008
+373,Houston,Detached,683549,3020,3,3.6,1963
+374,New York,Townhouse,182454,709,2,3.3,1931
+375,San Diego,Semi-detached,973877,2592,1,3.4,1900
+376,Dallas,Condo,831205,707,5,1.3,1997
+377,San Diego,Detached,784592,736,2,3.1,1984
+378,San Diego,Detached,731827,1257,1,3.5,1933
+379,Chicago,Condo,487043,2959,5,3.6,1904
+380,Los Angeles,Condo,422722,1311,5,2.8,1923
+381,Chicago,Townhouse,933313,1959,2,1.9,1964
+382,Dallas,Detached,202002,1333,4,2.1,1981
+383,San Diego,Semi-detached,234918,2904,5,1.7,1955
+384,San Diego,Semi-detached,317530,1366,4,3.3,1959
+385,San Jose,Condo,867795,945,3,1.1,2002
+386,San Jose,Semi-detached,400658,2372,2,1.8,1913
+387,Philadelphia,Semi-detached,116616,3175,2,1.8,2000
+388,San Jose,Condo,523325,1149,3,3.7,1925
+389,Phoenix,Townhouse,446832,1543,2,1.6,1927
+390,San Antonio,Semi-detached,923034,3695,3,3.8,1919
+391,Chicago,Detached,895283,1785,3,2.7,1951
+392,Chicago,Townhouse,905027,2148,2,3.2,2014
+393,Phoenix,Detached,905005,3929,2,3.2,1977
+394,San Antonio,Townhouse,308603,1674,1,2.6,1952
+395,Los Angeles,Townhouse,488159,1339,1,2.4,1996
+396,San Antonio,Detached,216569,2448,1,1.7,1931
+397,Dallas,Townhouse,514488,3554,4,1.1,2006
+398,New York,Townhouse,738260,1990,1,3.3,1921
+399,Los Angeles,Semi-detached,885177,2980,1,2.6,1941
+400,Phoenix,Detached,747191,3129,5,2.9,1964
+401,Dallas,Condo,275742,567,4,1.1,1948
+402,New York,Condo,619873,2973,3,3.7,1991
+403,Dallas,Townhouse,692214,3497,3,1.2,1939
+404,New York,Detached,631834,2961,1,1.7,1923
+405,Houston,Detached,744568,3006,5,4.0,2011
+406,San Jose,Condo,751799,3894,3,1.4,1905
+407,Phoenix,Townhouse,679083,3362,1,1.2,1905
+408,Houston,Detached,405879,749,1,1.2,1973
+409,Dallas,Townhouse,561284,3103,3,1.1,2000
+410,Phoenix,Semi-detached,468959,595,3,3.0,1958
+411,Houston,Condo,991795,3930,5,2.9,2021
+412,Dallas,Detached,453797,1827,4,2.6,2022
+413,Phoenix,Condo,684514,2150,2,2.5,1998
+414,San Diego,Detached,769181,3060,3,1.4,1910
+415,New York,Condo,134615,829,2,1.7,1911
+416,San Jose,Condo,298850,3947,4,3.4,1989
+417,Philadelphia,Detached,274682,3430,4,2.3,1973
+418,Philadelphia,Townhouse,523909,2148,4,1.8,1946
+419,San Jose,Detached,626405,2149,4,2.9,1930
+420,Dallas,Condo,548007,2594,3,3.5,1943
+421,San Antonio,Townhouse,874200,3000,4,2.9,2009
+422,San Jose,Townhouse,868247,1141,1,2.2,1901
+423,Los Angeles,Condo,393881,3469,5,2.9,1974
+424,San Diego,Condo,407303,3990,3,1.3,1904
+425,San Jose,Semi-detached,795371,2688,5,1.9,1940
+426,Los Angeles,Detached,833357,1525,5,1.3,2017
+427,Chicago,Semi-detached,287829,2970,1,2.5,1900
+428,San Jose,Townhouse,630008,875,2,2.0,1998
+429,San Antonio,Townhouse,643972,1062,3,3.0,2008
+430,San Antonio,Condo,862134,2415,5,3.5,1944
+431,Philadelphia,Detached,311004,2014,2,1.1,1901
+432,Los Angeles,Semi-detached,405125,2859,5,1.8,1918
+433,New York,Townhouse,528213,1200,4,2.9,1933
+434,San Antonio,Townhouse,682752,3316,2,1.1,1929
+435,San Antonio,Condo,183730,638,2,3.6,1965
+436,New York,Detached,921896,2505,2,3.9,1957
+437,San Antonio,Semi-detached,630381,3649,2,4.0,2013
+438,San Jose,Detached,799249,614,2,1.5,1952
+439,San Antonio,Condo,457537,1671,1,2.8,2014
+440,San Diego,Semi-detached,829772,1724,1,2.7,2015
+441,San Jose,Townhouse,342449,1304,3,2.5,2004
+442,New York,Semi-detached,182122,3631,2,1.8,2003
+443,New York,Townhouse,834015,2965,2,1.3,1981
+444,San Antonio,Semi-detached,844445,1650,2,3.8,1946
+445,Phoenix,Townhouse,161627,1662,1,2.5,1914
+446,Phoenix,Semi-detached,549394,2664,3,1.0,1970
+447,Dallas,Detached,668935,1272,2,1.4,1984
+448,Phoenix,Townhouse,509000,2355,2,3.7,1963
+449,Philadelphia,Condo,753095,3488,4,4.0,1953
+450,Phoenix,Detached,615114,713,5,1.7,1976
+451,Philadelphia,Semi-detached,279820,3422,5,2.1,1989
+452,San Diego,Detached,722855,1262,2,3.4,1982
+453,Los Angeles,Townhouse,781463,2269,1,1.4,1985
+454,San Diego,Semi-detached,844771,1203,5,3.6,1954
+455,Philadelphia,Townhouse,459537,2778,4,3.3,1938
+456,Los Angeles,Townhouse,338527,2781,1,2.0,1909
+457,Philadelphia,Townhouse,280255,2845,2,1.1,1999
+458,Chicago,Townhouse,263029,1872,3,2.1,1990
+459,Los Angeles,Townhouse,381477,2869,1,3.5,2013
+460,Chicago,Condo,256001,1702,2,3.0,1993
+461,Philadelphia,Townhouse,481909,3566,2,2.4,2004
+462,San Antonio,Condo,735728,2043,2,3.1,1934
+463,Chicago,Semi-detached,509819,1263,2,3.1,1920
+464,New York,Detached,855303,3556,5,1.1,1958
+465,Los Angeles,Semi-detached,138338,2254,2,1.4,1945
+466,Dallas,Detached,390520,2744,3,2.5,1983
+467,New York,Townhouse,922592,824,4,3.6,1924
+468,Houston,Detached,577162,2477,5,1.5,1974
+469,Houston,Condo,789481,1222,1,3.0,1948
+470,San Antonio,Detached,147475,2671,4,1.5,1933
+471,Philadelphia,Semi-detached,993010,2814,5,2.4,1940
+472,San Antonio,Detached,851800,2641,3,1.9,2016
+473,San Jose,Semi-detached,605222,3539,1,3.2,1924
+474,San Antonio,Detached,794299,2008,4,2.5,2009
+475,Chicago,Detached,552255,2689,1,2.3,2000
+476,San Antonio,Townhouse,194387,504,5,2.7,1941
+477,Phoenix,Townhouse,182275,1081,5,3.1,2022
+478,Chicago,Condo,321333,1690,5,2.5,2012
+479,Chicago,Condo,424701,3768,5,2.2,2005
+480,Dallas,Detached,215698,2598,3,3.4,1987
+481,Houston,Detached,258647,2051,1,2.3,2007
+482,Philadelphia,Semi-detached,698258,2777,3,2.9,1990
+483,Phoenix,Condo,182512,3078,2,2.3,1946
+484,Philadelphia,Semi-detached,132312,2429,2,3.9,2008
+485,Phoenix,Townhouse,234997,1350,3,2.9,1961
+486,Dallas,Condo,498500,1424,1,3.3,1990
+487,Los Angeles,Detached,101694,2370,4,3.4,1969
+488,Los Angeles,Townhouse,248124,3248,4,3.4,1948
+489,Dallas,Semi-detached,877404,954,2,2.1,1941
+490,San Antonio,Semi-detached,657312,3001,2,1.2,1977
+491,Phoenix,Detached,157228,2454,5,1.2,2012
+492,San Antonio,Semi-detached,159562,1922,5,1.7,1937
+493,New York,Townhouse,384890,3916,5,1.2,1907
+494,Phoenix,Semi-detached,603995,791,4,3.2,1919
+495,Houston,Condo,890392,670,4,3.4,1937
+496,San Antonio,Semi-detached,725105,1519,1,3.9,1990
+497,Philadelphia,Townhouse,234365,2287,1,3.2,1918
+498,Los Angeles,Detached,321404,1673,3,1.8,1965
+499,San Antonio,Condo,956977,718,1,3.0,1945
+500,San Jose,Semi-detached,683605,2857,5,2.5,1963
+501,San Antonio,Townhouse,119248,2202,1,1.7,2021
+502,Philadelphia,Townhouse,326392,3609,4,1.7,1957
+503,Phoenix,Condo,130544,2249,3,3.4,1994
+504,Chicago,Condo,994733,614,5,1.1,1914
+505,Philadelphia,Townhouse,137034,1073,4,3.4,1959
+506,Chicago,Semi-detached,722289,3001,2,3.2,1939
+507,Philadelphia,Condo,898091,1629,1,3.0,2003
+508,New York,Townhouse,670983,1487,4,1.1,1993
+509,San Antonio,Detached,118428,2497,5,2.0,2019
+510,San Antonio,Semi-detached,684775,2848,2,3.1,1952
+511,San Jose,Townhouse,891189,2893,1,3.9,1920
+512,San Jose,Townhouse,752263,1328,3,3.2,1987
+513,Houston,Semi-detached,906961,3024,3,1.5,2010
+514,Los Angeles,Townhouse,749714,1862,4,3.7,1951
+515,San Diego,Detached,161673,507,5,1.4,1947
+516,San Diego,Townhouse,418424,1900,4,3.0,1954
+517,Phoenix,Detached,722393,3514,3,2.9,1990
+518,San Antonio,Townhouse,440231,1720,5,2.4,1947
+519,Dallas,Semi-detached,428115,2195,1,1.1,1963
+520,Chicago,Semi-detached,813113,1108,4,1.7,1998
+521,New York,Condo,465653,978,1,1.5,1939
+522,Chicago,Detached,863429,1490,5,3.5,2009
+523,Phoenix,Condo,798262,504,2,2.8,1968
+524,Philadelphia,Detached,588035,2377,3,3.7,1924
+525,San Diego,Detached,696690,971,1,3.5,2010
+526,Houston,Condo,489126,1366,1,3.7,2008
+527,Philadelphia,Detached,920756,1523,5,3.2,1954
+528,Houston,Detached,410023,865,4,1.4,1999
+529,San Diego,Townhouse,683764,718,3,3.4,1922
+530,Los Angeles,Townhouse,184494,828,4,2.2,1993
+531,Houston,Condo,317951,3317,2,2.3,2001
+532,Philadelphia,Detached,341499,3279,2,2.9,2012
+533,Chicago,Condo,828381,2481,3,3.2,2021
+534,San Jose,Condo,993348,3915,3,1.7,1937
+535,Dallas,Semi-detached,394873,2686,5,2.5,1975
+536,Los Angeles,Semi-detached,682968,3673,3,2.2,1931
+537,Philadelphia,Semi-detached,579284,2194,5,1.3,1905
+538,Philadelphia,Semi-detached,786523,1627,4,3.4,1976
+539,New York,Semi-detached,922346,1263,2,2.5,1928
+540,Chicago,Semi-detached,682635,1233,5,1.2,2022
+541,San Antonio,Condo,226327,3220,5,1.5,2001
+542,Dallas,Semi-detached,226210,2671,4,2.6,1985
+543,San Antonio,Semi-detached,650220,1194,5,1.9,1953
+544,San Antonio,Townhouse,249793,2411,3,3.1,2021
+545,Phoenix,Condo,300871,788,1,3.4,1931
+546,Los Angeles,Condo,138661,2763,1,3.1,1965
+547,Los Angeles,Detached,946590,1795,3,1.2,1985
+548,San Antonio,Townhouse,497540,3300,5,2.3,1999
+549,Chicago,Condo,206036,2684,3,3.7,1909
+550,San Antonio,Semi-detached,846994,902,3,1.2,1993
+551,Philadelphia,Detached,350119,1922,1,1.9,1948
+552,San Jose,Condo,762181,1867,1,1.8,1982
+553,New York,Semi-detached,380267,1176,3,1.6,2008
+554,Dallas,Townhouse,245766,3245,2,2.0,1983
+555,San Diego,Semi-detached,111079,1773,3,3.6,2003
+556,Houston,Condo,985175,1067,2,1.8,1922
+557,Houston,Condo,251122,1387,1,3.0,1902
+558,Chicago,Detached,351932,1881,1,3.8,1923
+559,Phoenix,Detached,310452,1459,5,2.0,1991
+560,Philadelphia,Detached,234721,3158,1,3.3,2022
+561,San Jose,Detached,140365,1003,4,2.3,1970
+562,San Jose,Semi-detached,927885,1881,3,2.4,2008
+563,Philadelphia,Detached,909219,1855,1,1.2,1972
+564,New York,Semi-detached,189894,1452,1,1.3,1990
+565,Philadelphia,Semi-detached,935370,561,3,2.7,2010
+566,Dallas,Semi-detached,479114,1204,2,3.6,1924
+567,San Antonio,Semi-detached,608756,1057,3,1.9,1905
+568,Chicago,Townhouse,207721,1357,1,3.7,2003
+569,San Antonio,Condo,178801,2820,5,1.2,1917
+570,San Jose,Semi-detached,767145,1672,4,3.4,1918
+571,Dallas,Condo,709581,1670,2,2.7,1922
+572,Los Angeles,Condo,811792,3665,2,1.7,1982
+573,Dallas,Semi-detached,288341,1117,2,1.9,2011
+574,San Jose,Condo,926606,1710,5,2.4,2019
+575,Philadelphia,Condo,184325,1017,4,1.5,1938
+576,Dallas,Detached,614233,3931,1,1.1,1983
+577,Chicago,Condo,622459,3234,2,1.5,1955
+578,Dallas,Detached,712749,1202,5,2.1,1937
+579,Phoenix,Condo,148085,930,5,1.1,1956
+580,Houston,Detached,132144,2244,5,2.8,1953
+581,San Jose,Detached,454360,2998,4,1.6,1969
+582,San Diego,Townhouse,645140,669,1,2.4,2022
+583,Philadelphia,Condo,173607,2407,2,2.0,1983
+584,New York,Condo,511801,3355,3,3.9,1967
+585,Dallas,Detached,148468,715,4,1.2,2021
+586,San Antonio,Condo,839523,3460,5,2.9,1950
+587,San Jose,Condo,510447,1979,4,2.6,1900
+588,Chicago,Townhouse,756307,3740,3,1.9,2018
+589,Los Angeles,Condo,547501,3773,4,3.6,1976
+590,San Diego,Condo,172612,1270,5,2.0,1913
+591,Los Angeles,Detached,973987,2065,2,2.2,1945
+592,Chicago,Detached,453567,1591,3,2.4,1914
+593,San Antonio,Condo,442423,1782,1,3.9,1953
+594,New York,Detached,213974,1060,1,2.7,1921
+595,San Diego,Detached,874335,2573,1,1.3,1912
+596,Los Angeles,Condo,383138,3398,1,3.9,1988
+597,Philadelphia,Semi-detached,605113,554,4,2.1,1940
+598,New York,Semi-detached,577748,3515,2,2.8,1964
+599,San Antonio,Detached,650228,1382,2,3.3,1981
+600,Chicago,Townhouse,401028,2754,2,3.2,1955
+601,Houston,Semi-detached,838336,3646,4,1.4,1925
+602,Phoenix,Semi-detached,728837,2391,1,2.6,1973
+603,San Antonio,Detached,717971,1443,1,1.4,1947
+604,New York,Condo,958255,2529,1,3.4,1977
+605,Dallas,Detached,885448,885,2,1.4,2010
+606,Houston,Semi-detached,428471,943,2,1.9,1932
+607,Los Angeles,Townhouse,898034,3759,4,3.4,2006
+608,San Jose,Townhouse,767037,1329,1,1.8,1959
+609,San Diego,Townhouse,709423,1342,2,1.5,2011
+610,Los Angeles,Detached,697687,1816,2,1.3,1998
+611,San Antonio,Condo,949435,3530,5,2.4,1902
+612,Dallas,Detached,425446,664,4,1.6,1901
+613,Dallas,Detached,534531,2808,4,1.1,1922
+614,New York,Detached,911915,744,5,2.7,1999
+615,Houston,Semi-detached,834171,2870,5,3.0,2013
+616,San Jose,Condo,148320,2682,5,4.0,1976
+617,San Diego,Detached,678137,2139,5,2.8,1905
+618,Philadelphia,Detached,554312,1536,5,2.8,1956
+619,Philadelphia,Townhouse,682667,1842,1,3.1,1926
+620,Houston,Townhouse,398665,962,2,3.2,2022
+621,San Diego,Townhouse,498763,2264,4,2.4,1979
+622,Houston,Townhouse,732030,3584,4,2.9,1925
+623,Chicago,Townhouse,809474,1249,3,3.6,1905
+624,New York,Detached,687893,1395,1,2.6,1920
+625,San Diego,Condo,734770,2611,1,3.1,1969
+626,San Jose,Semi-detached,257175,2056,3,3.8,1930
+627,Houston,Detached,637626,1543,3,3.0,1911
+628,San Jose,Condo,741731,1321,3,3.5,1924
+629,Los Angeles,Detached,788775,3629,2,3.3,2022
+630,Phoenix,Townhouse,460731,2859,1,1.3,1982
+631,Phoenix,Semi-detached,397031,1848,3,1.6,1915
+632,Dallas,Semi-detached,862904,3259,3,3.3,1931
+633,Houston,Condo,815205,2602,3,2.3,1955
+634,San Diego,Semi-detached,902917,2855,4,4.0,2021
+635,Phoenix,Detached,232978,896,2,1.5,1975
+636,New York,Condo,497142,1066,1,2.5,2001
+637,Phoenix,Detached,708883,1935,3,3.9,1919
+638,San Antonio,Condo,368669,844,2,2.1,1955
+639,Dallas,Condo,927608,3483,2,3.8,1921
+640,Chicago,Semi-detached,708497,3449,4,1.1,1919
+641,Chicago,Semi-detached,555413,1387,1,3.3,1913
+642,San Jose,Semi-detached,172376,1376,5,1.5,1905
+643,Houston,Condo,286034,3498,4,1.2,1976
+644,Phoenix,Townhouse,459054,820,1,3.0,1962
+645,Phoenix,Detached,121149,1592,2,3.1,1976
+646,Chicago,Townhouse,425844,1322,2,2.0,1980
+647,Chicago,Townhouse,507073,1202,5,2.6,1996
+648,Chicago,Detached,189776,3491,2,3.7,2002
+649,Dallas,Townhouse,784791,938,2,2.9,1901
+650,San Jose,Semi-detached,375164,3460,2,3.6,1974
+651,San Jose,Townhouse,872221,1846,2,3.6,1997
+652,Philadelphia,Semi-detached,974237,2802,2,3.8,2011
+653,Houston,Condo,648491,729,4,1.8,1977
+654,Houston,Semi-detached,224123,636,1,2.7,1903
+655,Chicago,Semi-detached,536344,1846,3,2.8,1986
+656,Dallas,Semi-detached,823959,2931,4,3.6,1950
+657,Philadelphia,Semi-detached,693206,3960,5,2.3,1934
+658,Philadelphia,Townhouse,361692,3714,3,3.8,1906
+659,Chicago,Condo,897270,2334,2,1.2,1912
+660,Dallas,Semi-detached,965471,1670,4,2.5,2007
+661,Dallas,Detached,613543,1524,3,1.8,2021
+662,Philadelphia,Semi-detached,761645,2164,1,3.0,1943
+663,San Jose,Condo,700689,2663,1,1.4,1999
+664,New York,Semi-detached,927392,3881,5,2.9,1948
+665,Houston,Semi-detached,940174,3939,1,2.4,2021
+666,Los Angeles,Townhouse,939207,3512,2,4.0,1920
+667,Chicago,Detached,450251,2963,4,3.5,2009
+668,Philadelphia,Townhouse,786597,2097,5,2.3,1926
+669,Philadelphia,Semi-detached,250607,2035,1,1.2,1904
+670,Phoenix,Townhouse,527528,690,3,3.9,2015
+671,Philadelphia,Semi-detached,832060,2146,2,2.3,1949
+672,Dallas,Detached,906247,3581,3,1.1,1952
+673,Los Angeles,Condo,893214,1613,4,1.9,1988
+674,Phoenix,Townhouse,709826,3636,3,3.7,1908
+675,Houston,Condo,140551,3767,5,3.7,1980
+676,Phoenix,Semi-detached,178760,3190,4,2.6,1976
+677,San Jose,Townhouse,278554,1545,4,1.7,1950
+678,Houston,Townhouse,439200,1052,5,1.4,2018
+679,Houston,Semi-detached,585700,2528,3,1.5,2007
+680,San Diego,Semi-detached,676643,920,2,1.9,1957
+681,San Antonio,Detached,520087,1269,1,3.0,1928
+682,Houston,Townhouse,326981,2527,5,2.8,1955
+683,Houston,Condo,256218,3662,1,2.7,1955
+684,San Diego,Townhouse,172461,3827,5,3.8,1962
+685,Phoenix,Townhouse,865571,520,1,3.1,2015
+686,Chicago,Semi-detached,530929,3235,5,2.5,1954
+687,Dallas,Condo,567730,3844,5,1.4,2016
+688,San Jose,Detached,602461,3309,4,1.0,2013
+689,New York,Condo,538272,3782,2,2.0,1986
+690,Los Angeles,Semi-detached,293946,627,2,2.1,1912
+691,New York,Detached,854086,1956,1,3.0,2000
+692,Dallas,Detached,988225,1553,3,2.1,1909
+693,Chicago,Condo,908300,3573,1,3.8,1962
+694,Los Angeles,Townhouse,365228,3782,3,1.9,1972
+695,Dallas,Semi-detached,340983,2524,4,1.9,1903
+696,Chicago,Detached,173592,2130,2,2.9,1928
+697,San Jose,Townhouse,214748,1725,5,1.8,1972
+698,Houston,Detached,463169,1952,5,1.9,1977
+699,San Diego,Semi-detached,650873,979,3,1.5,1995
+700,San Diego,Townhouse,341131,3982,2,1.4,2005
+701,Phoenix,Condo,237713,1081,2,3.3,1964
+702,New York,Detached,333770,1880,3,1.8,1931
+703,Chicago,Detached,348975,3505,5,3.0,1986
+704,New York,Townhouse,160440,3150,3,3.9,2007
+705,Phoenix,Condo,184670,3846,4,1.5,1984
+706,Chicago,Condo,663314,786,4,1.8,1985
+707,New York,Condo,426578,3455,5,3.6,2002
+708,San Antonio,Condo,719538,2516,2,3.7,1944
+709,San Antonio,Condo,470379,928,1,3.5,1904
+710,San Antonio,Condo,113713,1999,5,2.6,1933
+711,San Antonio,Townhouse,157171,966,3,2.3,2008
+712,Houston,Semi-detached,863383,1514,2,1.6,1974
+713,Phoenix,Condo,658534,1914,4,1.9,1981
+714,San Diego,Condo,454547,2147,1,1.6,1970
+715,New York,Semi-detached,294495,3010,5,2.6,1947
+716,San Diego,Detached,151547,1069,2,2.3,1976
+717,New York,Townhouse,840405,1537,4,1.5,1974
+718,Chicago,Semi-detached,883751,858,2,2.0,1915
+719,New York,Condo,587800,3773,1,4.0,1926
+720,San Diego,Semi-detached,997321,3525,1,2.6,2001
+721,San Diego,Townhouse,255210,2429,3,1.6,1946
+722,New York,Detached,432268,2533,2,3.2,1919
+723,Phoenix,Detached,522753,3559,2,3.2,1964
+724,Chicago,Condo,543689,2289,2,1.8,1952
+725,San Jose,Semi-detached,903041,3910,2,3.9,1998
+726,San Antonio,Semi-detached,978044,2990,1,3.2,1947
+727,San Antonio,Semi-detached,741995,3800,4,1.8,1929
+728,San Jose,Townhouse,153920,1484,5,2.8,1990
+729,New York,Townhouse,630175,1994,4,1.9,1946
+730,Dallas,Condo,122780,2015,2,3.5,1917
+731,Phoenix,Semi-detached,988160,2062,1,1.8,1940
+732,New York,Semi-detached,140912,3409,1,1.3,1988
+733,Chicago,Townhouse,732668,885,5,3.0,1910
+734,New York,Detached,161992,3981,1,2.4,1917
+735,San Diego,Semi-detached,513526,706,4,3.6,2010
+736,Dallas,Condo,565762,3335,1,2.1,1972
+737,San Diego,Semi-detached,772864,3543,5,1.3,2017
+738,Los Angeles,Townhouse,155165,1533,5,3.4,2015
+739,Dallas,Condo,499055,596,2,1.5,1939
+740,Dallas,Semi-detached,166000,1223,5,1.2,1904
+741,Dallas,Detached,456782,2107,2,1.5,1975
+742,San Jose,Townhouse,217121,1945,2,1.8,1969
+743,Houston,Semi-detached,643992,3303,3,1.0,1977
+744,San Antonio,Detached,683274,1064,3,4.0,1918
+745,New York,Detached,945285,798,5,1.2,1962
+746,New York,Condo,634590,3369,4,2.3,1972
+747,San Diego,Semi-detached,164061,1324,2,1.2,1927
+748,Philadelphia,Townhouse,931654,2093,1,2.5,1980
+749,San Antonio,Semi-detached,287353,579,5,1.0,1975
+750,Houston,Semi-detached,260098,2297,4,3.2,1949
+751,San Jose,Condo,106882,866,1,2.0,1967
+752,Chicago,Semi-detached,942547,3945,5,4.0,1941
+753,San Antonio,Semi-detached,938491,1183,5,3.4,1936
+754,New York,Semi-detached,858440,3995,2,2.4,1941
+755,Dallas,Detached,982453,3339,5,3.9,1918
+756,Houston,Townhouse,281824,3800,5,1.7,1950
+757,Dallas,Townhouse,191629,1219,2,1.4,1946
+758,San Diego,Semi-detached,252760,3859,2,2.6,2015
+759,Phoenix,Detached,390667,855,5,3.8,1940
+760,Philadelphia,Condo,953553,2413,4,3.5,1916
+761,Dallas,Townhouse,938302,2753,1,3.7,2007
+762,Phoenix,Townhouse,728258,2359,4,2.3,1907
+763,New York,Detached,435716,3423,2,3.0,1909
+764,San Antonio,Semi-detached,829768,2884,1,3.4,1941
+765,San Antonio,Detached,606322,693,4,2.4,1951
+766,Philadelphia,Detached,968918,3253,2,3.1,1935
+767,San Diego,Semi-detached,421968,3090,5,1.2,1926
+768,San Diego,Detached,809833,2019,4,2.7,1907
+769,Philadelphia,Townhouse,163517,3777,4,3.2,1995
+770,Chicago,Townhouse,315855,1165,5,1.0,1986
+771,San Antonio,Townhouse,264190,3580,1,3.7,1942
+772,Los Angeles,Detached,149491,1445,1,1.1,2019
+773,Chicago,Townhouse,586834,613,2,1.2,1965
+774,New York,Detached,508179,1863,2,1.6,1949
+775,Dallas,Detached,734633,1111,4,1.7,1960
+776,Dallas,Condo,568979,500,3,2.5,1935
+777,Dallas,Semi-detached,398288,3498,1,1.5,1974
+778,Phoenix,Semi-detached,547656,1728,5,2.0,1987
+779,Houston,Detached,735223,2339,3,3.1,1975
+780,San Diego,Condo,108082,1956,2,3.0,1980
+781,Los Angeles,Detached,872180,1060,2,1.3,2018
+782,Philadelphia,Townhouse,740004,685,2,1.6,1904
+783,San Jose,Semi-detached,650545,1232,2,1.8,1919
+784,New York,Detached,439883,1918,5,1.9,1913
+785,New York,Detached,966445,2772,1,3.6,1953
+786,San Jose,Detached,798410,2591,2,4.0,2021
+787,New York,Condo,776713,1320,2,1.5,1969
+788,San Jose,Condo,689373,1494,2,1.7,1907
+789,San Jose,Townhouse,132466,3144,4,1.7,2014
+790,Houston,Townhouse,834330,3350,1,2.6,2002
+791,Los Angeles,Condo,651567,3147,1,1.7,1954
+792,Philadelphia,Townhouse,199677,3479,5,2.6,1971
+793,New York,Semi-detached,330101,3999,5,1.7,1917
+794,Dallas,Semi-detached,396113,2537,2,2.3,1946
+795,San Jose,Condo,618175,3918,2,1.9,2005
+796,Chicago,Townhouse,632209,2287,1,2.4,1992
+797,Los Angeles,Semi-detached,129713,1729,2,3.5,1967
+798,Philadelphia,Detached,622112,1963,4,1.9,1954
+799,Chicago,Townhouse,705301,1420,3,2.9,2018
+800,San Antonio,Townhouse,391247,1838,4,1.6,1962
+801,San Diego,Townhouse,803210,1636,2,2.8,1958
+802,Phoenix,Condo,826126,2835,2,3.7,1911
+803,Phoenix,Detached,111839,3870,4,2.5,1918
+804,San Diego,Condo,357583,3693,5,3.8,1935
+805,New York,Detached,594962,3650,1,2.2,2017
+806,Philadelphia,Townhouse,661414,594,1,3.5,1933
+807,New York,Semi-detached,519755,1823,4,2.1,1907
+808,San Antonio,Detached,570940,3096,4,1.7,1906
+809,San Antonio,Detached,860090,2324,3,2.1,1929
+810,San Jose,Townhouse,232747,2664,1,1.1,1987
+811,Houston,Detached,776555,691,1,3.4,1977
+812,New York,Condo,468439,3015,4,3.2,2022
+813,San Antonio,Townhouse,794603,2448,1,4.0,1989
+814,San Jose,Detached,669904,3252,3,3.0,1959
+815,Dallas,Semi-detached,367761,1664,4,3.2,1937
+816,New York,Townhouse,730087,1380,2,2.9,1989
+817,Philadelphia,Semi-detached,586722,1139,1,2.4,2013
+818,San Antonio,Semi-detached,206262,631,5,3.5,2014
+819,Houston,Condo,586530,1836,1,1.3,1948
+820,San Antonio,Semi-detached,409342,3345,3,3.6,1944
+821,Chicago,Detached,600774,1935,4,3.4,1962
+822,San Antonio,Townhouse,437742,799,3,1.2,1907
+823,Chicago,Condo,767673,612,5,2.9,1920
+824,San Jose,Detached,900702,758,3,3.3,1961
+825,Houston,Semi-detached,890618,2762,2,3.3,1993
+826,New York,Townhouse,229338,2389,4,2.4,1900
+827,Philadelphia,Townhouse,142791,3386,2,3.4,2010
+828,Philadelphia,Condo,411338,2513,4,2.4,1932
+829,San Antonio,Semi-detached,191385,1820,1,1.0,1985
+830,Dallas,Detached,467425,1706,2,3.3,2020
+831,San Diego,Townhouse,302982,1777,4,3.4,1909
+832,Los Angeles,Semi-detached,947643,2389,3,3.4,2004
+833,Los Angeles,Condo,947901,686,2,3.5,1934
+834,Phoenix,Detached,178877,2084,3,2.7,1922
+835,San Jose,Semi-detached,775641,1696,3,2.2,1938
+836,Phoenix,Detached,847042,1213,3,1.4,1960
+837,Dallas,Condo,578556,645,3,1.7,1938
+838,Phoenix,Semi-detached,804623,638,4,1.7,2007
+839,Houston,Detached,834115,2745,3,1.2,2001
+840,Houston,Condo,884953,1064,2,2.5,1919
+841,Dallas,Detached,861580,1770,2,2.4,2017
+842,Los Angeles,Detached,545015,2466,3,3.7,2014
+843,Houston,Detached,935063,2617,2,1.4,1933
+844,Houston,Townhouse,677551,582,1,2.0,1989
+845,Phoenix,Detached,911424,2107,2,1.2,1950
+846,Phoenix,Semi-detached,414046,2701,2,3.9,2004
+847,Philadelphia,Semi-detached,400189,2889,2,3.6,1902
+848,San Jose,Semi-detached,722827,1860,1,2.4,1962
+849,Dallas,Condo,383541,532,2,2.8,1929
+850,Chicago,Condo,615559,3971,1,2.5,2006
+851,Dallas,Semi-detached,856194,1904,4,3.2,1991
+852,Philadelphia,Townhouse,652547,1783,4,3.5,2015
+853,Dallas,Semi-detached,343935,951,4,1.9,1951
+854,Los Angeles,Detached,487542,2376,3,1.3,1961
+855,Philadelphia,Semi-detached,126117,760,4,3.4,1990
+856,Chicago,Condo,357288,528,1,2.4,1974
+857,New York,Semi-detached,565975,1013,3,1.9,1987
+858,San Diego,Detached,412809,2775,1,1.9,1945
+859,Houston,Detached,760408,1213,2,3.7,1988
+860,Phoenix,Condo,999423,3268,1,3.5,1967
+861,Chicago,Detached,577746,3706,4,4.0,1926
+862,New York,Semi-detached,941060,2176,3,1.9,1973
+863,San Antonio,Townhouse,609626,3426,4,2.2,1933
+864,New York,Semi-detached,710103,2646,5,3.0,1980
+865,Houston,Townhouse,623185,902,3,1.0,1921
+866,Houston,Townhouse,743968,1968,1,1.7,1987
+867,Philadelphia,Townhouse,958572,790,4,2.5,1938
+868,Philadelphia,Condo,147215,2452,2,2.5,1950
+869,Dallas,Condo,961075,3395,3,1.9,1903
+870,Dallas,Townhouse,438367,2034,2,1.6,1971
+871,Philadelphia,Condo,367249,1309,2,3.3,1903
+872,New York,Semi-detached,699712,3754,4,3.0,1914
+873,San Diego,Townhouse,335428,1946,5,2.7,1936
+874,San Jose,Detached,633234,3897,3,3.3,1960
+875,San Jose,Detached,787083,2743,5,2.7,1946
+876,Philadelphia,Detached,501468,2173,5,2.0,1908
+877,Chicago,Semi-detached,672420,3204,5,2.0,1982
+878,San Antonio,Detached,375232,906,1,2.5,1991
+879,Los Angeles,Detached,270184,2108,2,1.0,1930
+880,Chicago,Detached,510864,2526,2,3.4,2009
+881,Phoenix,Semi-detached,660609,2735,5,1.7,2002
+882,Chicago,Condo,516787,1298,1,1.5,1938
+883,New York,Semi-detached,137280,2305,4,3.1,1978
+884,Dallas,Semi-detached,618162,1155,5,3.3,1997
+885,Houston,Detached,573414,3068,4,3.1,1988
+886,San Antonio,Townhouse,331305,870,2,3.3,2010
+887,Los Angeles,Semi-detached,573561,3044,3,2.2,1917
+888,New York,Semi-detached,373772,2743,2,3.7,1974
+889,San Jose,Detached,297129,3093,4,3.1,1904
+890,San Antonio,Semi-detached,693142,3104,1,1.1,1969
+891,San Antonio,Detached,188949,709,3,1.8,2015
+892,San Antonio,Townhouse,224867,3682,2,1.0,2005
+893,Philadelphia,Townhouse,119856,3557,4,3.5,1980
+894,New York,Detached,538523,1583,1,2.4,1989
+895,San Diego,Semi-detached,996040,1366,3,3.5,2009
+896,Los Angeles,Detached,622531,1635,1,2.6,1997
+897,San Jose,Detached,747909,822,1,3.1,2008
+898,Los Angeles,Detached,113673,1940,1,2.9,1919
+899,Dallas,Semi-detached,272372,1565,1,1.0,1923
+900,San Jose,Condo,896267,3311,3,2.8,1986
+901,San Jose,Townhouse,138551,2898,5,3.6,1916
+902,New York,Detached,203281,1957,3,1.9,1907
+903,Phoenix,Condo,550374,3684,4,1.1,1994
+904,Houston,Semi-detached,688618,3107,3,3.2,1967
+905,Chicago,Semi-detached,502706,834,1,3.8,1905
+906,New York,Detached,846261,1884,5,2.7,1970
+907,Chicago,Townhouse,189044,1869,4,2.9,1965
+908,Phoenix,Semi-detached,263422,3957,5,2.6,1903
+909,Dallas,Semi-detached,712419,2489,4,2.5,1958
+910,New York,Semi-detached,202995,1106,3,1.2,1924
+911,Phoenix,Semi-detached,584080,769,3,4.0,2003
+912,San Antonio,Detached,700447,3237,2,2.4,1940
+913,Chicago,Condo,811674,1796,3,1.8,1973
+914,Phoenix,Semi-detached,694226,1071,2,2.6,1967
+915,Philadelphia,Detached,319276,1831,5,3.5,1987
+916,Phoenix,Semi-detached,180757,2830,5,1.6,2019
+917,New York,Detached,947593,1438,2,1.5,1906
+918,Phoenix,Detached,616047,1042,5,2.9,1933
+919,San Antonio,Condo,869677,1161,1,3.3,1927
+920,Houston,Townhouse,777369,879,4,3.6,1970
+921,Philadelphia,Condo,536906,3673,3,2.3,2015
+922,San Jose,Condo,651901,3592,1,2.7,1938
+923,Los Angeles,Townhouse,508361,2916,2,2.4,1932
+924,Dallas,Detached,436552,2299,1,2.5,1981
+925,Dallas,Townhouse,602361,3199,1,3.4,2011
+926,Los Angeles,Semi-detached,716529,2478,3,1.6,2006
+927,Dallas,Semi-detached,803855,1590,3,1.4,1914
+928,Philadelphia,Condo,717286,1771,2,3.1,1961
+929,Dallas,Condo,935859,3186,3,1.6,2019
+930,Dallas,Detached,317075,3524,2,1.7,1925
+931,San Antonio,Condo,430738,3277,4,3.6,1912
+932,San Jose,Detached,733260,795,3,2.2,1926
+933,Philadelphia,Condo,423635,2759,2,1.2,1938
+934,Chicago,Condo,698175,3085,2,1.7,1922
+935,San Antonio,Semi-detached,170732,1829,2,1.8,1986
+936,Phoenix,Semi-detached,669488,2091,3,2.6,1906
+937,Houston,Detached,442724,2463,4,2.9,2020
+938,San Antonio,Condo,459705,1814,4,1.8,1982
+939,Dallas,Semi-detached,169889,811,3,1.2,1935
+940,Philadelphia,Semi-detached,852434,3190,4,2.4,1917
+941,San Antonio,Condo,165757,2542,4,3.6,1921
+942,Philadelphia,Semi-detached,803737,3507,3,1.8,1904
+943,San Antonio,Semi-detached,183772,1525,2,3.6,1905
+944,Dallas,Semi-detached,289041,2797,4,1.8,1958
+945,San Jose,Townhouse,497416,2209,5,2.5,1934
+946,Philadelphia,Detached,852399,3172,3,2.7,1999
+947,San Diego,Semi-detached,879404,1952,3,1.1,2009
+948,San Diego,Condo,474960,2368,1,2.2,1959
+949,San Antonio,Townhouse,686468,3265,1,3.2,1988
+950,Phoenix,Semi-detached,690508,3034,2,3.0,1937
+951,San Jose,Semi-detached,999750,1172,3,3.4,1924
+952,San Antonio,Townhouse,897398,1597,3,1.2,2012
+953,New York,Semi-detached,886445,2742,2,3.7,2016
+954,San Diego,Detached,796443,2908,3,1.6,1940
+955,San Jose,Detached,563225,2698,5,2.2,1991
+956,San Antonio,Townhouse,601184,2883,4,2.4,1902
+957,San Antonio,Semi-detached,268897,1918,3,2.6,1927
+958,San Jose,Semi-detached,644867,2967,5,1.1,1906
+959,Philadelphia,Detached,774399,2685,2,4.0,1994
+960,New York,Townhouse,424085,580,5,3.8,2019
+961,Los Angeles,Condo,244123,3360,2,3.9,1981
+962,San Diego,Semi-detached,189986,720,3,1.6,1975
+963,Phoenix,Condo,475056,2199,3,4.0,1916
+964,Phoenix,Townhouse,754685,1486,2,3.5,1968
+965,New York,Semi-detached,691398,1993,3,2.7,1944
+966,Dallas,Condo,187781,864,5,3.4,1968
+967,Houston,Detached,420629,2349,1,1.9,2021
+968,Dallas,Townhouse,465311,3170,4,2.1,2019
+969,Dallas,Detached,874767,2613,2,3.1,1941
+970,Houston,Detached,358905,2838,1,3.1,2018
+971,Los Angeles,Semi-detached,525145,2364,5,1.6,2000
+972,Chicago,Detached,444004,3113,1,2.8,1955
+973,Phoenix,Townhouse,554616,2010,3,3.9,2019
+974,San Diego,Semi-detached,431405,1804,2,1.5,1912
+975,Dallas,Semi-detached,497822,2107,5,1.3,2018
+976,Phoenix,Townhouse,241324,1791,1,2.1,1918
+977,Los Angeles,Condo,138575,975,4,3.8,1954
+978,San Diego,Detached,152490,785,5,2.3,1968
+979,Dallas,Detached,629283,2167,1,3.2,1941
+980,New York,Condo,131837,1189,4,1.3,2018
+981,San Jose,Detached,865601,3495,3,2.5,1928
+982,Los Angeles,Detached,601436,978,3,2.7,2013
+983,Houston,Townhouse,142789,3543,4,3.3,1938
+984,Dallas,Semi-detached,639731,1640,2,1.8,1931
+985,Dallas,Condo,375173,561,4,3.2,2006
+986,Houston,Detached,363612,1883,1,2.0,1955
+987,Dallas,Condo,245730,519,3,3.5,1901
+988,San Jose,Detached,658954,2633,5,2.5,1966
+989,Philadelphia,Condo,111215,3684,3,3.4,1903
+990,Los Angeles,Detached,383078,1488,2,2.6,1908
+991,New York,Condo,712056,2606,1,3.4,1956
+992,Dallas,Townhouse,161119,1535,3,2.2,1993
+993,Phoenix,Detached,526779,2661,4,1.5,1930
+994,Phoenix,Condo,537258,3002,1,3.6,1972
+995,New York,Semi-detached,547469,2946,3,3.2,1913
+996,San Diego,Condo,558472,3471,2,2.5,1904
+997,Los Angeles,Condo,422216,3732,4,3.4,1948
+998,San Diego,Semi-detached,897344,2177,5,1.9,1969
+999,New York,Townhouse,535321,1730,3,1.6,1992
+1000,Phoenix,Semi-detached,433746,815,4,1.6,1944
