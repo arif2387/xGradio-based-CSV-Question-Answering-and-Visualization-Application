@@ -75,7 +75,7 @@ iface = gr.Interface(
         gr.Textbox(label="CSV Answer"),
         gr.Image(label="Visualization"),
     ],
-    title="xGradio CSV Insights (No AI)",
+    title="xGradio CSV Insightsask basic data questions and answer ",
     description="Upload a CSV, ask basic data questions, and visualize the data."
 )
 
