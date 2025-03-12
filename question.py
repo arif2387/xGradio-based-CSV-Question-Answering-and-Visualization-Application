@@ -2,6 +2,7 @@ import gradio as gr
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
 
 # Load CSV file
 def load_csv(file):
@@ -24,7 +25,7 @@ def query_csv(df, question):
         column = question.split()[-1]
         if column in df.columns:
             return f"Maximum {column}: {df[column].max()}"
-    
+
     if "min" in question:
         column = question.split()[-1]
         if column in df.columns:
@@ -74,9 +75,10 @@ iface = gr.Interface(
         gr.Textbox(label="CSV Answer"),
         gr.Image(label="Visualization"),
     ],
-    title="xGradio-based CSV Question Answering and Visualization Application",
+    title="xGradio CSV Insights (No AI)",
     description="Upload a CSV, ask basic data questions, and visualize the data."
 )
 
-# Set server to run on public host for deployment
-iface.launch(server_name="127.0.0.1", server_port=10000)
+# Use Render's dynamic port
+port = int(os.environ.get("PORT", 10000))
+iface.launch(server_name="0.0.0.0", server_port=port)
